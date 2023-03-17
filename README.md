@@ -1,3 +1,6 @@
+AMBIL FILE SQL simulasi_bnsp.sql
+lalu  import sql nya ....
+
 ```javascript
 
 $('#tipe').change(function (){
